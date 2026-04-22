@@ -1,2 +1,2 @@
 # ImTuff
-Ryan is a bum
+Ryan is NOT a bum
